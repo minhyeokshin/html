@@ -1,19 +1,7 @@
+div p{
+  color: red;
+}
 
-  p{
-    color: red;
-    font:
-  italic 1.2rem "Fira Sans",
-  serif;
-  font-size: 12px;
-  }
-
-  body
-  {
-    color: rgb(0, 64, 255);
-  }
-
-h1{
-  color: rgb(232, 150, 9);
-  text-align: center;
-  font-size: 85px;
+p{
+  color: blue;
 }
