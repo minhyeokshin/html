@@ -1,0 +1,43 @@
+
+#img {
+  width: 100%;
+  max-width: 600px;
+}
+
+.input {
+  border: 1px solid black;
+  text-align: center;
+  width: 100%;
+  max-width: 600px;
+}
+
+h2 {
+  font-size: 1.8em;
+  color: red;
+}
+
+#head {
+  color: aliceblue;
+  text-align: left;
+  font-size: 1.2em;
+  background-color: black;
+  padding: 10px;
+  margin: 0 auto;
+  width: 96.5%;
+  max-width: 600px;
+}
+
+span{
+  color: blue;
+}
+
+#smalltext {
+  font-size: 0.7em;
+}
+
+
+
+
+table {
+  border: 2.5px solid black;
+}
