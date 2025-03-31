@@ -1,0 +1,38 @@
+header {
+  background-color: purple;
+  height: 50px;
+  width: 310px;
+  border-radius: 10px;
+  margin-bottom : 10px;
+}
+
+
+main {
+  display: flex;
+}
+
+nav {
+  background-color: blue;
+  height: 200px;
+  width: 100px;
+  border-radius: 10px;
+  margin-right: 10px;
+  color: aliceblue;
+}
+
+article {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  
+}
+
+footer{
+  background-color: red;
+  height: 50px;
+  width: 310px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
